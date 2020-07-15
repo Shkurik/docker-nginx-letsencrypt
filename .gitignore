@@ -1,0 +1,4 @@
+.idea/
+certbot
+dhparam/*
+!dhparam/.gitkeep
